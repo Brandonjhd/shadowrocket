@@ -1,0 +1,2 @@
+# shadowrocket
+这是针对shadowrocket（小火箭）配置文件的教程，其中包含了johnshall大佬的贡献以及本人对其配置文件的优化
