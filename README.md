@@ -4,7 +4,7 @@
 最新配置文件包含了更多的中國大陸直連網站，並通過DNS防泄漏測試
 
 自動更新快捷指令（包含回國規則）：
-https://www.icloud.com/shortcuts/c632624828364cc0995c8e34fa486345
+https://www.icloud.com/shortcuts/a7693d0c2c314d47ae8413bc7215c1e4
 
 ⚠️注意⚠️：直接點擊鏈接添加快捷指令後運行即可（首次運行可能會要求權限，同意開啓即可）
 
